@@ -30,5 +30,10 @@
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y vim git curl ufw fail2ban
 ```
+#### Для Red Hat/CentOS:
 
+```bash
+sudo yum update -y
+sudo yum install -y vim git curl firewalld fail2ban
 
+```
