@@ -37,3 +37,11 @@ sudo yum update -y
 sudo yum install -y vim git curl firewalld fail2ban
 
 ```
+### Шаг 2: Установка дополнительного ПО
+
+### Установка Fail2Ban
+Fail2Ban блокирует IP-адреса, которые пытаются совершать брутфорс-атаки.
+
+#### Для Debian/Ubuntu:
+```bash
+sudo apt install -y fail2ban
