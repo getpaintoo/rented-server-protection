@@ -45,3 +45,7 @@ Fail2Ban блокирует IP-адреса, которые пытаются с�
 #### Для Debian/Ubuntu:
 ```bash
 sudo apt install -y fail2ban
+```
+
+https://github.com/username/repository-name/raw/branch-name/path/to/image.png
+
